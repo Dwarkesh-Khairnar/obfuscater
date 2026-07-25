@@ -1,4 +1,4 @@
-# obfuscater
+# obfuscater  (Ai created)
 
 ## work
    - Only convert this code only machine readeble not human readeble
