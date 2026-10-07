@@ -8,4 +8,4 @@
 ## commands to use
     node index.js File-to-convert.html --mode base64 --out obfuscated.html
 
-- sometime it's not work
+- sometime it's not work (Overlap codes)
